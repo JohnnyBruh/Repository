@@ -1,0 +1,2 @@
+print("yaaaay")
+input()
